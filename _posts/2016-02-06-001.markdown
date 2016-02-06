@@ -1,0 +1,8 @@
+---
+published: true
+title: 001
+layout: post
+tags: [italiano]
+categories: [micro]
+---
+Il ticchettio delle foglie che ti seguono allegre, quasi ridanciane.

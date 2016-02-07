@@ -1,6 +1,0 @@
----
-published: true
-title: prova
-layout: post
----
-cappa

@@ -1,1 +1,8 @@
+---
+published: true
+title: 002
+layout: post
+tags: [español]
+categories: [micro]
+---
 Península, isla de pena, bota colma de barro.

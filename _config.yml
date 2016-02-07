@@ -1,6 +1,6 @@
 excerpt_separator: ""
 pygments: true
-markdown: kramdown
+markdown: pixyll
 url: http://marconoris.github.io
 title: ma:no
 paginate: 10

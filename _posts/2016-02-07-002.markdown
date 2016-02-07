@@ -1,0 +1,8 @@
+---
+published: true
+title: 003
+layout: post
+tags: [español]
+categories: [micro]
+---
+Deja tu muerte, quema tus fotos y ponte a nadar; llegarás bailando como una botella preñada, flotando como certezas y feliz, como aquel día.

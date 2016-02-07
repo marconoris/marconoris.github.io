@@ -9,7 +9,7 @@
 
 body{
     line-height: 1.6em;
-    font-family: "Noto Serif","Libre Baskerville", serif;
+    font-family: "Courier new", monospace, "Libre Baskerville", serif;
     color: #444;
     padding-top: 20px
 }
@@ -55,6 +55,7 @@ time{
 article{
     padding: 15px;
     font-size: 90%;
+    Font-family:"courier new", monospace;
 }
 article p{
     padding: 10px
